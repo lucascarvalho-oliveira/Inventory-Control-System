@@ -60,8 +60,6 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos importantes co
 
 ## Estrutura do Projeto
 
-## Estrutura do Projeto
-
 ```
 src/
 │
