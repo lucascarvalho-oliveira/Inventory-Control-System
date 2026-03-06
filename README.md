@@ -60,11 +60,17 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos importantes co
 
 ## Estrutura do Projeto
 
+## Estrutura do Projeto
+
+```
 src/
-├── main/           # Ponto de entrada (execução)
+│
+├── main/                # Ponto de entrada (execução do sistema)
 │   └── Main.java
-└── produtos/       # Modelo de dados e regras de negócio
+│
+└── produtos/            # Modelo de dados e regras de negócio
     └── Produto.java
+```
 
 ## Como Executar o Projeto
 1. Clonar o repositório <br>
